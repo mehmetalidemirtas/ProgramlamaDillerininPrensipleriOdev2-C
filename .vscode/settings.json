@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "kisi.h": "c",
+        "dosya.h": "c"
+    }
+}
